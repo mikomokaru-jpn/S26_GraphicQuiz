@@ -1,4 +1,4 @@
-## macOS S26_GraphicQuiz
+## macOS_S_GraphicQuiz
 ## Image Guessing Quiz（Core Grapjics）
 ## How to use
 Load a image file (JPG or PNG) using NSOpenPanel.
